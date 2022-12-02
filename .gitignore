@@ -1,0 +1,5 @@
+poetry.lock
+discord.log
+.env
+.git
+__pycache__/
