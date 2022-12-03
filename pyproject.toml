@@ -9,7 +9,19 @@ readme = "README.md"
 python = "^3.10"
 discord-py = "^2.1.0"
 python-dotenv = "^0.21.0"
+bpython = "^0.23"
+requests = "^2.28.1"
+pytest = "^7.2.0"
+matplotlib = "^3.6.2"
+pandas = "^1.5.2"
+statsmodels = "^0.13.5"
+sklearn = "^0.0.post1"
 
+
+[tool.poetry.group.dev.dependencies]
+flake8 = "^6.0.0"
+autopep8 = "^2.0.0"
+pytest = "^7.2.0"
 
 [build-system]
 requires = ["poetry-core"]

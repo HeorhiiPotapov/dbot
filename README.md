@@ -1,1 +1,1 @@
-bots creator
+# Discord bot created for different purposes.
