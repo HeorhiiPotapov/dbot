@@ -4,3 +4,4 @@ discord.log
 .git
 __pycache__/
 .vscode/
+example_data.txt
